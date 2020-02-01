@@ -4,3 +4,4 @@ provider "aws" {
   region  = "eu-west-1"
   shared_credentials_file = "/users/adityanagalla/.aws/credentials"
 }
+adding test data
